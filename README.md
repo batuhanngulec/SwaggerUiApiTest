@@ -16,7 +16,7 @@ API'nin GET, POST, PUT ve DELETE metodları üzerinde testler yapılmıştır.
 
 3. Cypress testlerini çalıştırın:
     ```bash
-    npx cypress open
+    npx cypress run
     ```
 ## Test Senaryoları
 
