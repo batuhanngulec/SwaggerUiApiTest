@@ -52,3 +52,15 @@ Tüm test senaryoları başarıyla çalışmıştır. Aşağıda her testin baş
     - DELETE - Delete Order Id: Başarılı
     - DELETE - Delete Undefined Order Id: Başarılı (404 döndürdü)
  
+### Test Çıktıları
+
+Aşağıda testlerin çalıştırılması sırasında elde edilen ekran görüntüleri bulunmaktadır:
+
+1. **Order API Test Sonuçları**
+   ![Order API Test Sonuçları](./test-result/order-api-result.PNG)
+
+2. **Pet API Test Sonuçları**
+   ![Pet API Test Sonuçları](./test-result/pet-api-result.PNG)
+
+
+ 
