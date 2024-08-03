@@ -87,5 +87,5 @@ Aşağıda testlerin çalıştırılması sırasında elde edilen ekran görünt
 
 Aşağıda Cypress Cloud'da çalıştırılan testlerin başarılı sonuçlarını gösteren ekran görüntüsü bulunmaktadır:
 
-![Cypress Cloud Test Sonuçları](./images/cloudCypress-1.png)
+![Cypress Cloud Test Sonuçları](./test-result/cloudCypress-1.png)
  
