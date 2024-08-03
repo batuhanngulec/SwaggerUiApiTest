@@ -62,5 +62,30 @@ Aşağıda testlerin çalıştırılması sırasında elde edilen ekran görünt
 2. **Pet API Test Sonuçları**
    ![Pet API Test Sonuçları](./test-result/pet-api-result.PNG)
 
+## Cypress Cloud Kurulumu ve Test Sonuçları
 
+### Cypress Cloud Hesabına Projeyi Bağlama
+
+1. Cypress Dashboard'da bir proje oluşturun ve projenize özel API anahtarını alın.
+2. Proje dizininde `.cypress.json` dosyasına aşağıdaki şekilde API anahtarınızı ekleyin:
+    ```json
+    {
+      "projectId": "your_project_id"
+    }
+    ```
+3. Cypress Cloud'a giriş yapmak için:
+    ```bash
+    npx cypress cloud
+    ```
+
+4. Testlerinizi Cypress Cloud'da çalıştırın:
+    ```bash
+    npx cypress run --record --key your_record_key
+    ```
+
+### Cypress Cloud Test Sonuçları
+
+Aşağıda Cypress Cloud'da çalıştırılan testlerin başarılı sonuçlarını gösteren ekran görüntüsü bulunmaktadır:
+
+![Cypress Cloud Test Sonuçları](./images/cloudCypress-1.png)
  
