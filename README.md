@@ -2,7 +2,7 @@
 Bu proje, Petstore API'sinin çeşitli yöntemlerini test etmek için Postman ve Cypress kullanarak otomatik test senaryoları oluşturur. 
 API'nin GET, POST, PUT ve DELETE metodları üzerinde testler yapılmıştır.
 
-**Postman Koleksiyonu:** [PetstoreAPI.postman_collection.json](https://github.com/batuhanngulec/SwaggerUiApiTest/blob/main/test-result/PetstoreAPI.postman_collection.json)
+**Postman Koleksiyonu:** [PetstoreAPI.json](https://github.com/batuhanngulec/SwaggerUiApiTest/blob/main/test-result/PetstoreAPI.postman_collection.json)
 
 ## Kurulum
 
